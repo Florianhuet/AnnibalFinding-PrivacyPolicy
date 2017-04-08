@@ -12,10 +12,6 @@ How do we use your information?
 
 We do not use any informations from our app users.
 
-Why do we ask for camera permission ?
-
-We use camera for the entertainment of the user only.
-We do not collect anything from the camera.
 
 How do we protect your information?
 
