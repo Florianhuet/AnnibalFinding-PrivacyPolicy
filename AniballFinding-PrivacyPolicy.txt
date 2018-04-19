@@ -1,6 +1,6 @@
 Aniball finding Privacy Policy
 
-Last updated: 2017-03-24
+Last updated: 2018-04-19
 
 This privacy policy has been compiled to better serve those who are concerned with how their 'Personally Identifiable Information' (PII) is being used online. PII, as described in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
@@ -12,9 +12,6 @@ How do we use your information?
 
 We do not use any informations from our app users.
 
-What is the usage of the camera ?
-
-The purpose of the camera is for entertainment only, we do not save nor collect anything from it.
 
 How do we protect your information?
 
@@ -47,5 +44,5 @@ If there are any questions regarding this privacy policy, you may contact us usi
 Florian Huet, Aniball Finding
 aniballfinding@gmail.com
 
-Last Edited on 2018-03-14
+Last Edited on 2018-04-19
 
